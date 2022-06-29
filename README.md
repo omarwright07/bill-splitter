@@ -7,3 +7,6 @@ Personal Project
 
 ## GitHub Location
 https://github.com/omarwright07/bill-splitter
+
+## Deployed Location
+https://omarwright07.github.io/bill-splitter/
